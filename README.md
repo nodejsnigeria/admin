@@ -50,6 +50,9 @@ A new member who does not yet contribute actively to a Local Chapter.
 
 **nodejsnigeria/city-chapter-p-project-name:** Current Project distributed by city Champion.
 
+## Members
+
+To see a list of those who are currently members of the organization, click [this link](https://github.com/nodejsnigeria/admin/blob/master/members.md)
 
 ### QAs
 
