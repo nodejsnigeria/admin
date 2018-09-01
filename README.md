@@ -44,7 +44,7 @@ A new member who does not yet contribute actively to a Local Chapter.
 
 ## Structuring
 
-**nodejsnigeria/admin:** A hair is responsible for creating repositories for every chapter.
+**nodejsnigeria/admin:** A Chair is responsible for creating repositories for every chapter.
 
 **nodejsnigeria/city-chapter:** Workshop Meeting Minutes [Number of Attendees, Topic Treated, Mentor for Meeting, Number of on-ground mentors], README.md [Chapter Info [Location, Meeting Days, Logo] Champion's Name, Active Collaborators [Mentors], Active Contributors [Mentor Assistance, Regular Members], Obeservers, Location]
 
