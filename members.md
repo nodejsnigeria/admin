@@ -1,10 +1,10 @@
 # Members
 
 ## Director
-- [Adebayo Opesanya](https://github.com/OpesanyaAdebayo)
+- [Adebayo Opesanya](https://github.com/OpesanyaAdebayo) – [@onejsninja](https://twitter.com/onejsninja)
 
 ## Chair
-- [Oluwasegun Adeleye](https://github.com/segun-adeleye)
+- [Oluwasegun Adeleye](https://github.com/segun-adeleye) – [@MrSegunAdeleye](https://twitter.com/MrSegunAdeleye)
 
 ## Co-Chair
-- [Peter Mbanugo](https://github.com/pmbanugo)
+- [Peter Mbanugo](https://github.com/pmbanugo) – [@p_mbanugo](https://twitter.com/p_mbanugo)
