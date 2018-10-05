@@ -83,7 +83,7 @@ You can attend the meetups of the Local Chapter or Initiative, investigate issue
 
 ## Chapters
 
-A Local Chapter is a
+A Local Chapter is a sub-community across a State, led by a Champion.
 
 ### Opening A Local Chapter
 -    A Local Chapter is to be coordinated on a State level; for example Kano or Oyo.
