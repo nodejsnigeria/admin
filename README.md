@@ -35,9 +35,20 @@ To see a list of those who are currently members of Node.js Nigeria, click [this
 
 The primary leader of Node.js Nigeria is acknowledged as the Director. The Director represents Nigeria on the Node.js Africa Board of Directors. The Director is tasked with the responsibility of maintaining Local Chapters within the country and co-ordinating team players to be effective.
 
+Before Node.js Nigeria Members meetings, the Director is to create an issue in this repository that contains the agenda and the Zoom link for the meeting. This must be done at least 48 hours to the meeting.
+
 ### Chairs
 
 It’s the responsibility of the Chair to see that all projects are completed and there are active contributors to Node.js Nigeria from the ecosystem.  A Chair can have a Co-Chair.
+
+At Node.js Nigeria Members meetings, the Chair is responsible for taking minutes/notes and uploading them to the `MEETINGS` folder in this repository. Each meeting minutes/notes must be uploaded as a single Markdown file in less than 48 hours after the meeting. Each file must be named in the format `YYYY-MM-DD.md` and must contain the following:
+
+-    The duration of the meeting, including the start time and end time
+-    A link to the agenda
+-    List of those present at the meeting
+-    List of those absebt from the meeting
+-    Notes on issues discussed
+
 
 ## Champions
 
